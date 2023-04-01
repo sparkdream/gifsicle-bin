@@ -36,8 +36,8 @@
 		"gifsicle"
 	],
 	"dependencies": {
-		"bin-build": "^3.0.0",
-		"bin-wrapper": "^4.0.0",
+		"bin-build": "github:brave/bin-build",
+		"bin-wrapper": "github:brave/bin-wrapper",
 		"execa": "^6.1.0"
 	},
 	"devDependencies": {
